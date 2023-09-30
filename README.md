@@ -1,5 +1,3 @@
 # learn-fligno
 
-Shane Blaize L. Paalisbo
-
-For stash purpose
+Shane Blaize L. Paalisbo - Information Technology
